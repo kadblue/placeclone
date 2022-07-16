@@ -15,6 +15,7 @@
 
 # Go workspace file
 go.work
+./idea
 */.idea
 *.iml
 *.xml
