@@ -1,2 +1,0 @@
-go build -o lambda && tar -a -c -f lambda.zip lambda && aws lambda update-function-code --function-name pl
-aceclone-api --zip-file fileb://lambda.zip
